@@ -1,10 +1,10 @@
 import os
-import cv2
-import numpy as np
-from tensorflow.keras.models import Sequential
-from tensorflow.keras.layers import Conv2D, MaxPooling2D, Flatten, Dense
-from tensorflow.keras.preprocessing.image import load_img, img_to_array
-from sklearn.preprocessing import LabelEncoder
+import cv2 # type: ignore
+import numpy as np # type: ignore
+from tensorflow.keras.models import Sequential # type: ignore
+from tensorflow.keras.layers import Conv2D, MaxPooling2D, Flatten, Dense # type: ignore
+from tensorflow.keras.preprocessing.image import load_img, img_to_array # type: ignore
+from sklearn.preprocessing import LabelEncoder # type: ignore
 
 def load_data(data_dir="data/training"):
     images = []

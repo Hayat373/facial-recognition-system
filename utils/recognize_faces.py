@@ -1,7 +1,7 @@
-import cv2
-import numpy as np
-from tensorflow.keras.models import load_model
-from PIL import Image
+import cv2 # type: ignore
+import numpy as np # type: ignore
+from tensorflow.keras.models import load_model # type: ignore
+from PIL import Image # type: ignore
 
 def recognize_face(image_path=None, use_webcam=True):
     # Load model and label encoder
