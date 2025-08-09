@@ -1,0 +1,44 @@
+
+# Python virtual environment
+venv/
+.env/
+env/
+
+# Data directories (photos)
+data/
+data/training/
+data/testing/
+
+# Model files
+models/
+models/face_model.h5
+models/label_encoder.npy
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE and editor files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Other common ignores
+*.zip
+*.tar.gz
+*.rar
+
+# Jupyter notebooks (if used)
+*.ipynb_checkpoints/
