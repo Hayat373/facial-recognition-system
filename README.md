@@ -26,7 +26,7 @@ A web-based facial recognition system built with Python, OpenCV, TensorFlow, and
 - **Face Capture**: Collect face images using a webcam and store them for training.
 - **Model Training**: Train a CNN model to recognize faces based on captured images.
 - **Real-Time Recognition**: Identify faces in real-time using a webcam, supporting multiple individuals.
-- **Web Interface**: User-friendly Flask-based interface to capture, train, and recognize faces.
+
 
 ---
 
@@ -42,12 +42,12 @@ A web-based facial recognition system built with Python, OpenCV, TensorFlow, and
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/facial-recognition-system.git
-   cd facial-recognition-system
+   git clone https://github.com/Hayat373/faceRecogistionAi.git
+   cd faceRecogistionAi
    ```
 
 2. **Create a Virtual Environment**:
-    ``bash
+    ```bash
     python -m venv venv
     source venv/bin/activate  # On Windows: venv\Scripts\activate
     ```
@@ -74,4 +74,3 @@ A web-based facial recognition system built with Python, OpenCV, TensorFlow, and
    ```bash 
    python utils/recognize_faces.py
    ```
-   
