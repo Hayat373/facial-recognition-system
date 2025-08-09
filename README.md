@@ -37,8 +37,8 @@ A web-based facial recognition system built with Python, OpenCV, TensorFlow, and
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Hayat373/faceRecogistionAi.git
-   cd faceRecogistionAi
+   git clone https://github.com/Hayat373/facial-recognition-system.git
+   cd facial-recognition-system
    ```
 
 2. **Create a Virtual Environment**:
