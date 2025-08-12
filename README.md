@@ -41,6 +41,8 @@ A web-based facial recognition system built with Python, OpenCV, TensorFlow, and
    cd facial-recognition-system
    ```
 
+
+
 2. **Create a Virtual Environment**:
     ```bash
     python -m venv venv
