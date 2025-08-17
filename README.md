@@ -14,6 +14,8 @@ A web-based facial recognition system built with Python, OpenCV, TensorFlow, and
   - [Run the Web Application](#run-the-web-application)
   - [Recognize Faces Directly](#recognize-faces-directly)
 
+    
+
 
 ---
 
